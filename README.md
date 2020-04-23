@@ -13,3 +13,5 @@ $ bundle exec ruby main.rb
 
 
 ###### Протестировано на версии ruby 2.6.5
+
+[1]: https://www.ruby-lang.org/ru/documentation/installation/
